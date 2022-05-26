@@ -1,0 +1,22 @@
+##         Comando básico para um desempenho   no terminal
+
+- dir: comado para listar diretórios na pasta onde está situado
+- cd/: base do diretório
+- Crtl+L: limpar o terminal
+- TAB: autocompletar
+- mkdir: criando uma pasta
+- cd ..: voltar nível na pasta
+- del: deletar arquivos
+- rdmir: deletar pasta
+
+## Objetos internos do Git
+
+- BLOBS
+- TREES
+- COMMITS
+
+## Iniciando o Git e criando um commit
+
+- git init: abrir o repositório , criando
+- git add: mover arquivos, editar
+- git commit: criar commit

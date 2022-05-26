@@ -1,3 +1,21 @@
 ## Anotações
 
 Link para download do Git: https://git-scm.com/download/win 
+
+1. Controle de versão
+2. Armazenamento em nuvem
+3. Trabalho em equipe
+4. Melhorar seu código
+5. Reconhecimento
+
+
+
+## Entendendo como o Git funciona por baixo dos panos
+
+- [ ] SHA1
+- [ ] Objetos fundamentais
+- [ ] Sistema distribuído
+- [ ] Segurança
+
+
+
